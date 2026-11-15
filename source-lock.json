@@ -1,6 +1,6 @@
 {
   "canonical_repository": "https://github.com/AceDataCloud/AceDataCloudMediaHermes",
-  "canonical_commit": "dbe1fd897a7e93097d989bcb15fad554fd350135",
+  "canonical_commit": "4ebf0fa803b92a1bc8b41fb4d4cd3ce3aacf06a7",
   "generator": "scripts/export_service.py",
   "service": "minimax",
   "consumer_repository": "https://github.com/AceDataCloud/MiniMaxHermes",
@@ -23,14 +23,14 @@
     "client.py": "2653fd9275cbda09beff43968d943baa82df83656217d08ddeb9521cc99b1d7f",
     "image_provider.py": "183dc1f72fa1905364466aa30da14d82c074d3484ee6a6a6a5b739a62342490c",
     "services/minimax.json": "8fb0bc7b68e25820b5477f40c439a24b32cbfed2e8c879888331311625de87a8",
-    "plugin.yaml": "5ba047ee48ded4aee1aefaa0183a42629acc234f648dbc94ed00e4d8af394668",
+    "plugin.yaml": "658f733b40f4b71dc56beaf98c3c8314031ecf61789fc9da1840e56b9c0e9870",
     "tests/test_contracts.py": "fa834427da679d6abb5a4a697f2d8a5ea18fcd9589aef7cb7077c3ebf5ff7dd3",
     "tests/test_registration.py": "a3b2904d16e44ab70696555165f6b05465cfc978b5fe5160cbca9acebc22845d",
     "tests/test_source_profile.py": "d29b78f9671e46fccfa1239c8f864ae282c19c8f7d9411b8b2ac2138373336ba",
     "scripts/check_runtime.py": "be594c81cf4436cc9689babae0344815268aab33345afc391221079be151e90f",
     "LICENSE": "72d30730d068e067be58878959bac2450f5a05f2b2e3c365cdc13a0181635c3c",
-    ".github/workflows/validate.yml": "c55306dacc681f351e58204660654a83793922b044c3f0a36fd6025d509eeafa",
-    "README.md": "00ef23adc71bb940a666fb371a43a95abfd968a93cbb6984d4e36770ab69f10f",
-    "readme/README_zh_Hans.md": "9d068acb3a8f55885c0e5e07833c26278d21769b901b33a9070520dc4a1b5824"
+    ".github/workflows/validate.yml": "58ec2cfacfe45ced48bb5240d271d66a088e8ba4387339a1ac839953e6489374",
+    "README.md": "44546322ca9e438168098b9cbde91217e5367bcb513e537db54adce2026db6cb",
+    "readme/README_zh_Hans.md": "82ae39428b9d7f249b1212fc08086b0852d09915f399a5b42478ba1ecac3feaa"
   }
 }
