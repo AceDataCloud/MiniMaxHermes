@@ -1,0 +1,36 @@
+{
+  "canonical_repository": "https://github.com/AceDataCloud/AceDataCloudMediaHermes",
+  "canonical_commit": "dbe1fd897a7e93097d989bcb15fad554fd350135",
+  "generator": "scripts/export_service.py",
+  "service": "minimax",
+  "consumer_repository": "https://github.com/AceDataCloud/MiniMaxHermes",
+  "canonical_contract": "services/minimax.json",
+  "identity_map": {
+    "tool_prefix": [
+      "acedatacloud_minimax",
+      "acedatacloud_single_minimax"
+    ],
+    "toolset": [
+      "acedatacloud-minimax",
+      "acedatacloud-single-minimax"
+    ],
+    "native_image_provider": null
+  },
+  "transport_sha256": "2653fd9275cbda09beff43968d943baa82df83656217d08ddeb9521cc99b1d7f",
+  "canonical_operation_sha256": "7139f5c4cc15e97b1cfea49b2eb2c4d016f60b4affe065e2b56d1275a5889118",
+  "generated_files": {
+    "__init__.py": "befe7ccc20f9dc0cd05d3c62fe25f036ab59371a82de41ef4edbc581af803aa5",
+    "client.py": "2653fd9275cbda09beff43968d943baa82df83656217d08ddeb9521cc99b1d7f",
+    "image_provider.py": "183dc1f72fa1905364466aa30da14d82c074d3484ee6a6a6a5b739a62342490c",
+    "services/minimax.json": "8fb0bc7b68e25820b5477f40c439a24b32cbfed2e8c879888331311625de87a8",
+    "plugin.yaml": "5ba047ee48ded4aee1aefaa0183a42629acc234f648dbc94ed00e4d8af394668",
+    "tests/test_contracts.py": "fa834427da679d6abb5a4a697f2d8a5ea18fcd9589aef7cb7077c3ebf5ff7dd3",
+    "tests/test_registration.py": "a3b2904d16e44ab70696555165f6b05465cfc978b5fe5160cbca9acebc22845d",
+    "tests/test_source_profile.py": "d29b78f9671e46fccfa1239c8f864ae282c19c8f7d9411b8b2ac2138373336ba",
+    "scripts/check_runtime.py": "be594c81cf4436cc9689babae0344815268aab33345afc391221079be151e90f",
+    "LICENSE": "72d30730d068e067be58878959bac2450f5a05f2b2e3c365cdc13a0181635c3c",
+    ".github/workflows/validate.yml": "c55306dacc681f351e58204660654a83793922b044c3f0a36fd6025d509eeafa",
+    "README.md": "00ef23adc71bb940a666fb371a43a95abfd968a93cbb6984d4e36770ab69f10f",
+    "readme/README_zh_Hans.md": "9d068acb3a8f55885c0e5e07833c26278d21769b901b33a9070520dc4a1b5824"
+  }
+}

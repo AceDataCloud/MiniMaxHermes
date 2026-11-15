@@ -1,12 +1,12 @@
 {
   "name": "acedatacloud-minimax",
   "version": "1.0.0",
-  "description": "MiniMax H3 text-to-video and first-frame animation through your Ace Data Cloud account.",
   "author": "AceDataCloud",
-  "requires_hermes": ">=0.21.6",
+  "description": "MiniMax H3 by Ace Data Cloud: source-only single-service Git plugin. Calls spend paid Credits without a Hermes approval prompt; model options can increase cost. Prompts/reference URLs go to api.acedata.cloud. Never automatically retry a paid request.",
+  "requires_hermes": ">=0.23.1",
   "provides_tools": [
-    "acedata_minimax_generate",
-    "acedata_minimax_task"
+    "acedatacloud_single_minimax_generate",
+    "acedatacloud_single_minimax_task"
   ],
   "requires_env": [
     "ACEDATACLOUD_API_KEY"
